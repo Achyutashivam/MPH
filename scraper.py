@@ -2225,7 +2225,7 @@ def scrape_mba_colleges():
 
     try:
        data = {
-              "MD":{
+              "MPH":{
                 "overviews":extract_overview_data(driver),
                 # "subject":extract_subjects_data(driver),
                 # "comparision":extract_compare_overview_data(driver),
